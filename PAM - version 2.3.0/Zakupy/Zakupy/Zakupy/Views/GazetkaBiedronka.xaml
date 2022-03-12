@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Zakupy.Views.GazetkaBiedronka"
+             Title="Gazetka Biedronka">
+    <ContentPage.Content>
+        <StackLayout>
+            <WebView HeightRequest="1000" WidthRequest="1000" Source="https://www.biedronka.pl/pl/gazetki"/>
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>

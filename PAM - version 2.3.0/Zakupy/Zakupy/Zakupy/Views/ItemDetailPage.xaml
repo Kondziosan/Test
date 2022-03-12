@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Zakupy.Views.ItemDetailPage"
+             Title="Moje listy">
+
+    <StackLayout Spacing="20" Padding="0">
+        <Label Text="Nazwa: " FontSize="Large" HorizontalOptions="Center" Margin="0,30,0,0"/>
+        <Label Text="{Binding Text}" FontSize="Medium" HorizontalOptions="Center"/>
+
+        <Label Text="Opis: " FontSize="Large" HorizontalOptions="Center"/>
+        <Label Text="{Binding Description}" FontSize="Medium" HorizontalOptions="Center"/>
+
+
+        <Button 
+             Text="+" 
+             CornerRadius="60" 
+             FontAttributes="Bold" 
+             FontSize="35" 
+             HorizontalOptions="Center" 
+             WidthRequest="70" 
+             HeightRequest="70"
+             Margin="250,50,0,0"
+             BackgroundColor="#f4841a"
+             Clicked="Button_Clicked">
+        </Button>
+
+    </StackLayout>
+
+</ContentPage>

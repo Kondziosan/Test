@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "HPU2DHkyNF2kW2Fc/PfJrvMp5vjtIH+NTBeQ1cjSKwjQu1SVRiHsTerO9u+fRENJfsNHH6i3+v6c7+NBqRRMHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Konrad\\Desktop\\PAM - version 2.3.0\\Zakupy\\Zakupy\\Zakupy\\Zakupy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Konrad\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Konrad\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Konrad\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Konrad\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\Konrad\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

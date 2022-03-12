@@ -1,0 +1,159 @@
+C:\Users\Admin\Desktop\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\Zakupy.deps.json
+C:\Users\Admin\Desktop\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\Zakupy.dll
+C:\Users\Admin\Desktop\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\ref\Zakupy.dll
+C:\Users\Admin\Desktop\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\Zakupy.pdb
+C:\Users\Admin\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Admin\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Admin\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Admin\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Admin\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Admin\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Admin\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.dll
+C:\Users\Admin\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\ref\Zakupy.dll
+C:\Users\Admin\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.pdb
+C:\Users\Konrad\Desktop\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\Zakupy.deps.json
+C:\Users\Konrad\Desktop\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\Zakupy.dll
+C:\Users\Konrad\Desktop\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\ref\Zakupy.dll
+C:\Users\Konrad\Desktop\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\Zakupy.pdb
+C:\Users\Konrad\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Konrad\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Konrad\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Konrad\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Konrad\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Konrad\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Konrad\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Konrad\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.AssemblyInfoInputs.cache
+C:\Users\Konrad\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.AssemblyInfo.cs
+C:\Users\Konrad\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Konrad\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.dll
+C:\Users\Konrad\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\ref\Zakupy.dll
+C:\Users\Konrad\Desktop\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.pdb
+C:\Users\Konrad\Desktop\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\Zakupy.deps.json
+C:\Users\Konrad\Desktop\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\Zakupy.dll
+C:\Users\Konrad\Desktop\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\ref\Zakupy.dll
+C:\Users\Konrad\Desktop\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\Zakupy.pdb
+C:\Users\Konrad\Desktop\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Konrad\Desktop\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Konrad\Desktop\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Konrad\Desktop\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Konrad\Desktop\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Konrad\Desktop\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Konrad\Desktop\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.AssemblyInfoInputs.cache
+C:\Users\Konrad\Desktop\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.AssemblyInfo.cs
+C:\Users\Konrad\Desktop\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Konrad\Desktop\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.dll
+C:\Users\Konrad\Desktop\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\ref\Zakupy.dll
+C:\Users\Konrad\Desktop\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.pdb
+D:\Szkoła\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\Zakupy.deps.json
+D:\Szkoła\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\Zakupy.dll
+D:\Szkoła\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\ref\Zakupy.dll
+D:\Szkoła\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\Zakupy.pdb
+D:\Szkoła\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.csproj.AssemblyReference.cache
+D:\Szkoła\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Szkoła\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Szkoła\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\Szkoła\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\Szkoła\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\Szkoła\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\Szkoła\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\Szkoła\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\Szkoła\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.AssemblyInfoInputs.cache
+D:\Szkoła\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.AssemblyInfo.cs
+D:\Szkoła\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.csproj.CoreCompileInputs.cache
+D:\Szkoła\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Szkoła\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.dll
+D:\Szkoła\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\ref\Zakupy.dll
+D:\Szkoła\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.pdb
+C:\Users\Konrad\Desktop\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\Szkoła\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\AddList.xaml.g.cs
+D:\Szkoła\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\ProductInfoPage.xaml.g.cs
+C:\Users\Admin\Desktop\PAM -  Konrad Juszczak\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\Zakupy.deps.json
+C:\Users\Admin\Desktop\PAM -  Konrad Juszczak\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\Zakupy.dll
+C:\Users\Admin\Desktop\PAM -  Konrad Juszczak\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\ref\Zakupy.dll
+C:\Users\Admin\Desktop\PAM -  Konrad Juszczak\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\Zakupy.pdb
+C:\Users\Admin\Desktop\PAM -  Konrad Juszczak\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PAM -  Konrad Juszczak\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\PAM -  Konrad Juszczak\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\Desktop\PAM -  Konrad Juszczak\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Admin\Desktop\PAM -  Konrad Juszczak\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Admin\Desktop\PAM -  Konrad Juszczak\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\AddList.xaml.g.cs
+C:\Users\Admin\Desktop\PAM -  Konrad Juszczak\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Admin\Desktop\PAM -  Konrad Juszczak\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Admin\Desktop\PAM -  Konrad Juszczak\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Admin\Desktop\PAM -  Konrad Juszczak\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Admin\Desktop\PAM -  Konrad Juszczak\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\ProductInfoPage.xaml.g.cs
+C:\Users\Admin\Desktop\PAM -  Konrad Juszczak\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\PAM -  Konrad Juszczak\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.AssemblyInfo.cs
+C:\Users\Admin\Desktop\PAM -  Konrad Juszczak\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PAM -  Konrad Juszczak\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin\Desktop\PAM -  Konrad Juszczak\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.dll
+C:\Users\Admin\Desktop\PAM -  Konrad Juszczak\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\ref\Zakupy.dll
+C:\Users\Admin\Desktop\PAM -  Konrad Juszczak\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.pdb
+C:\Users\Admin\Desktop\PAM -  Konrad Juszczak\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\Przepisy.xaml.g.cs
+C:\Users\Admin\Desktop\PAM -  Konrad Juszczak\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\GazetkaLidl.xaml.g.cs
+D:\Szkoła\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\GazetkaLidl.xaml.g.cs
+D:\Szkoła\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\Przepisy.xaml.g.cs
+C:\Users\Konrad\Desktop\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\WysuwaneMenu\GazetkaBiedronka.xaml.g.cs
+C:\Users\Konrad\Desktop\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\WysuwaneMenu\GazetkaLidl.xaml.g.cs
+C:\Users\Konrad\Desktop\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\WysuwaneMenu\Przepisy.xaml.g.cs
+C:\Users\Konrad\Desktop\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\WysuwaneMenu\Promocje.xaml.g.cs
+C:\Users\Konrad\Desktop\Projekty Zawodowe\PAM\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\Stuff.xaml.g.cs
+C:\Users\Konrad\Desktop\PAM - version 2.0.0\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\Zakupy.deps.json
+C:\Users\Konrad\Desktop\PAM - version 2.0.0\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\Zakupy.dll
+C:\Users\Konrad\Desktop\PAM - version 2.0.0\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\ref\Zakupy.dll
+C:\Users\Konrad\Desktop\PAM - version 2.0.0\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\Zakupy.pdb
+C:\Users\Konrad\Desktop\PAM - version 2.0.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\PAM - version 2.0.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Konrad\Desktop\PAM - version 2.0.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Konrad\Desktop\PAM - version 2.0.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Konrad\Desktop\PAM - version 2.0.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Konrad\Desktop\PAM - version 2.0.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Konrad\Desktop\PAM - version 2.0.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Konrad\Desktop\PAM - version 2.0.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Konrad\Desktop\PAM - version 2.0.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\Stuff.xaml.g.cs
+C:\Users\Konrad\Desktop\PAM - version 2.0.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.AssemblyInfoInputs.cache
+C:\Users\Konrad\Desktop\PAM - version 2.0.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.AssemblyInfo.cs
+C:\Users\Konrad\Desktop\PAM - version 2.0.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\PAM - version 2.0.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Konrad\Desktop\PAM - version 2.0.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.dll
+C:\Users\Konrad\Desktop\PAM - version 2.0.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\ref\Zakupy.dll
+C:\Users\Konrad\Desktop\PAM - version 2.0.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.pdb
+C:\Users\Konrad\Desktop\PAM - version 2.0.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\GazetkaLidl.xaml.g.cs
+C:\Users\Konrad\Desktop\PAM - version 2.0.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\GazetkaBiedronka.xaml.g.cs
+C:\Users\Konrad\Desktop\PAM - version 2.0.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\Promocje.xaml.g.cs
+C:\Users\Konrad\Desktop\PAM - version 2.0.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\Przepisy.xaml.g.cs
+C:\Users\Konrad\Desktop\PAM - version 2.3.0\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\Zakupy.deps.json
+C:\Users\Konrad\Desktop\PAM - version 2.3.0\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\Zakupy.dll
+C:\Users\Konrad\Desktop\PAM - version 2.3.0\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\ref\Zakupy.dll
+C:\Users\Konrad\Desktop\PAM - version 2.3.0\Zakupy\Zakupy\Zakupy\bin\Debug\netstandard2.0\Zakupy.pdb
+C:\Users\Konrad\Desktop\PAM - version 2.3.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\PAM - version 2.3.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Konrad\Desktop\PAM - version 2.3.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Konrad\Desktop\PAM - version 2.3.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Konrad\Desktop\PAM - version 2.3.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\GazetkaBiedronka.xaml.g.cs
+C:\Users\Konrad\Desktop\PAM - version 2.3.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\GazetkaLidl.xaml.g.cs
+C:\Users\Konrad\Desktop\PAM - version 2.3.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Konrad\Desktop\PAM - version 2.3.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Konrad\Desktop\PAM - version 2.3.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Konrad\Desktop\PAM - version 2.3.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Konrad\Desktop\PAM - version 2.3.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\Promocje.xaml.g.cs
+C:\Users\Konrad\Desktop\PAM - version 2.3.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\Przepisy.xaml.g.cs
+C:\Users\Konrad\Desktop\PAM - version 2.3.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Views\Stuff.xaml.g.cs
+C:\Users\Konrad\Desktop\PAM - version 2.3.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.AssemblyInfoInputs.cache
+C:\Users\Konrad\Desktop\PAM - version 2.3.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.AssemblyInfo.cs
+C:\Users\Konrad\Desktop\PAM - version 2.3.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\PAM - version 2.3.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Konrad\Desktop\PAM - version 2.3.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.dll
+C:\Users\Konrad\Desktop\PAM - version 2.3.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\ref\Zakupy.dll
+C:\Users\Konrad\Desktop\PAM - version 2.3.0\Zakupy\Zakupy\Zakupy\obj\Debug\netstandard2.0\Zakupy.pdb

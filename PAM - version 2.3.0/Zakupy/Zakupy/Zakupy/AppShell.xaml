@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms" 
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:local="clr-namespace:Zakupy.Views"
+       Title="Zakupy"
+       x:Class="Zakupy.AppShell">
+
+    <Shell.Resources>
+        
+        <ResourceDictionary>
+            
+            <Style x:Key="BaseStyle" TargetType="Element">
+                <Setter Property="Shell.BackgroundColor" Value="#74B72E" />
+                
+                <Setter Property="Shell.ForegroundColor" Value="White" />
+                <Setter Property="Shell.TitleColor" Value="White" />
+
+                <Setter Property="Shell.DisabledColor" Value="#B4FFFFFF" />
+                <Setter Property="Shell.UnselectedColor" Value="#95FFFFFF" />
+
+                <Setter Property="Shell.TabBarBackgroundColor" Value="White" />
+                <Setter Property="Shell.TabBarForegroundColor" Value="White"/>
+                <Setter Property="Shell.TabBarUnselectedColor" Value="White"/>
+                <Setter Property="Shell.TabBarTitleColor" Value="White"/>
+            </Style>
+            
+            <Style TargetType="TabBar" BasedOn="{StaticResource BaseStyle}" />
+            <Style TargetType="FlyoutItem" BasedOn="{StaticResource BaseStyle}" />
+
+           
+            <Style Class="FlyoutItemLabelStyle" TargetType="Label">
+                <Setter Property="TextColor" Value="White"></Setter>
+            </Style>
+            
+            <Style Class="FlyoutItemLayoutStyle" TargetType="Layout" ApplyToDerivedTypes="True">
+                
+                <Setter Property="VisualStateManager.VisualStateGroups">
+                    <VisualStateGroupList>
+                        <VisualStateGroup x:Name="CommonStates">
+                            <VisualState x:Name="Normal">
+                                <VisualState.Setters>
+                                    <Setter Property="BackgroundColor" Value="{x:OnPlatform UWP=Transparent, iOS=White}" />
+                                    <Setter TargetName="FlyoutItemLabel" Property="Label.TextColor" Value="{StaticResource Primary}" />
+                                </VisualState.Setters>
+                            </VisualState>
+                            <VisualState x:Name="Selected">
+                                <VisualState.Setters>
+                                    <Setter Property="BackgroundColor" Value="#f4841a" />
+                                </VisualState.Setters>
+                            </VisualState>
+                        </VisualStateGroup>
+                    </VisualStateGroupList>
+                </Setter>
+                
+            </Style>
+
+        </ResourceDictionary>
+        
+    </Shell.Resources>
+
+    <FlyoutItem Title="Strona Główna" Icon="logoStronaGlowna.png">
+        <ShellContent Route="AboutPage" ContentTemplate="{DataTemplate local:AboutPage}" />
+    </FlyoutItem>
+    
+    <FlyoutItem Title="Moje Listy" Icon="logoMojeListy.png">
+        <ShellContent Route="ItemsPage" ContentTemplate="{DataTemplate local:ItemsPage}" />
+    </FlyoutItem>
+    
+    <FlyoutItem Title="Przepisy" Icon="logoPrzepisy.png">
+        <ShellContent ContentTemplate="{DataTemplate local:Przepisy}" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Promocje" Icon="logoPromocje.png">
+        <ShellContent ContentTemplate="{DataTemplate local:Promocje}" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Gazetka Lidl" Icon="logoLidl.png">
+        <ShellContent ContentTemplate="{DataTemplate local:GazetkaLidl}" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Gazetka Biedronka" Icon="logoBiedronka.png">
+        <ShellContent ContentTemplate="{DataTemplate local:GazetkaBiedronka}" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Zaloguj się" Icon="">
+        <ShellContent ContentTemplate="{DataTemplate local:LoginPage}" />
+    </FlyoutItem>
+
+</Shell>

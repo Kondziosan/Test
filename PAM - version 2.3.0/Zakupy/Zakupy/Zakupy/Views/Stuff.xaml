@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Zakupy.Views.Stuff"
+             Title="Produkty">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Dodaj Produkt do Listy"/>
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        
+        <StackLayout>
+            
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+
+                <Button Text="+" x:Name="lblIncrement" BackgroundColor="White" TextColor="Orange" FontSize="30" Margin="-375,0,0,0" Clicked="Button_Clicked"/>
+                <Button Text="-" x:Name="lblDecrement" BackgroundColor="White" Margin="50,0,0,0" TextColor="Orange" FontSize="20" Clicked="lblDecrement_Clicked"/>
+                <Label Text="Ziemniaki" FontAttributes="Bold" FontSize="20" Margin="50,15,0,0"></Label>
+                <CheckBox Margin="375,0,0,0" CheckedChanged="CheckBox_CheckedChanged"></CheckBox>
+                
+            </Grid>
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Button Text="+" BackgroundColor="White" TextColor="Orange" FontSize="30" Margin="-375,0,0,0"/>
+                <Label Text="Mleko" FontAttributes="Bold" FontSize="20" Margin="50,15,0,0"></Label>
+                <CheckBox Margin="375,0,0,0"></CheckBox>
+
+            </Grid>
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Button Text="+" BackgroundColor="White" TextColor="Orange" FontSize="30" Margin="-375,0,0,0"/>
+                <Label Text="Ser żółty" FontAttributes="Bold" FontSize="20" Margin="50,15,0,0"></Label>
+                <CheckBox Margin="375,0,0,0"></CheckBox>
+
+            </Grid>
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Button Text="+" BackgroundColor="White" TextColor="Orange" FontSize="30" Margin="-375,0,0,0"/>
+                <Label Text="Jajka" FontAttributes="Bold" FontSize="20" Margin="50,15,0,0"></Label>
+                <CheckBox Margin="375,0,0,0"></CheckBox>
+
+            </Grid>
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Button Text="+" BackgroundColor="White" TextColor="Orange" FontSize="30" Margin="-375,0,0,0"/>
+                <Label Text="Papryka" FontAttributes="Bold" FontSize="20" Margin="50,15,0,0"></Label>
+                <CheckBox Margin="375,0,0,0"></CheckBox>
+
+            </Grid>
+
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>
